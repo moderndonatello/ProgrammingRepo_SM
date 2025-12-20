@@ -1,6 +1,4 @@
-Welcome to my first GitHub repository!
-
-In this repository, I have included programs from my bioinformatics science fair projects (2021 - 2023), as well as some of my submissions to the USA Computing Olympiad problems. Below, I have also added links to my project documentation to see how my code fits into the scope of my research. I hope you enjoy it!
+In this repository, I have included programs from my bioinformatics science fair projects (2021 - 2024), as well as some of my submissions to the USA Computing Olympiad problems. Below, I have also added links to my project documentation to see how my code fits into the scope of my research. I hope you enjoy it!
 
 
 2023-2024 Research - Using Single-Cell RNA Sequencing to Predict Cytokine Release Syndrome Severity for CAR T-cell Therapy Patients
