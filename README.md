@@ -1,4 +1,4 @@
-In this repository, I have included programs from my bioinformatics science fair projects (2021 - 2024), as well as some of my submissions to the USA Computing Olympiad problems. Below, I have also added links to my project documentation to see how my code fits into the scope of my research. I hope you enjoy it!
+In this repository, I have included programs from my bioinformatics science fair projects (2021 - 2024). Below, I have also added links to my project documentation to see how my code fits into the scope of my research.
 
 
 2023-2024 Research - Using Single-Cell RNA Sequencing to Predict Cytokine Release Syndrome Severity for CAR T-cell Therapy Patients
@@ -11,15 +11,9 @@ In this repository, I have included programs from my bioinformatics science fair
 - randomForestClassifier_TRID.py --> Python code that utilizes machine learning (random forests) to classify fluorophore recordings with an AUROC of 0.92 and accuracy of 87.7%
 - effectivenessPlotter_TRID.py --> Python program that accurately generates a TRID effectiveness plot within seconds, a significant improvement over scientists' manual approach that takes several days
 - Link to TRID Research Abstract: https://drive.google.com/file/d/1wCK58_G2DViiKHSiQPjs5s5k9Iz-EWmI/view?usp=sharing
-- Link to TRID Research Paper: https://drive.google.com/file/d/1wGyX5O_b4xfEGXPk-teNDrS2kLwm28by/view?usp=sharing
 
 
 2021-2022 Research - Predicting Traumatic Brain Injury (TBI) Mortalities and Patient Functionality Post-Injury
 - MortAndFuncPredictor_TBI --> Python code that fully analyzes 300 patients suffering from TBIs and can predict patient survival and functioning ability with 96.3% accuracy
 - Link to TBI Research Abstract: https://drive.google.com/file/d/1CUp8LSlPNQaVTk0Whok5xriw5w2uDdjn/view?usp=sharing
-- Link to TBI Research Paper: https://drive.google.com/file/d/1ZiDKm5ge4Ss6IwehbhdDYWNhP09fsva7/view?usp=sharing
-
-
-USA Computing Olympiad (USACO) Submissions:
-- convention2USACO.cpp --> C++ solution to the USACO Silver 2018 December contest for problem 2 (Convention II)
-- fenceplanUSACO.cpp --> C++ solution to the USACO Silver 2019 US Open contest for problem 3 (Fence Planning)
+- Link to Published TBI Research Paper: https://ieeexplore.ieee.org/document/10903785
